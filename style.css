@@ -16,7 +16,6 @@ body{
     text-align: center;
     font-size: 32px;
     font-weight: 400;
-    /* padding: 177px 530px 383px 530px; */
     padding-top: 140px;
 }
 .heading-bold{
@@ -27,4 +26,35 @@ body{
     font-weight: 900;
     line-height: 95px;
     padding: 16px 344px 177px 344px;
+}
+/* main parts style */
+.head1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 120px;
+}
+.head6{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.head3{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.new-year{
+    width: 802.9px;
+    margin: auto;
 }
