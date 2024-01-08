@@ -315,18 +315,92 @@ div.join-now-section{
 }
 .image-work{
     width: 1100px;
-    height: 400px;
+    height: 200px;
     margin-top: 130px;
     display: flex;
 }
 .image-work2{
     width: 1100px;
-    height: 400px;
+    height: 200px;
     margin-top: 40px;
     display: flex;
 }
 .one{
     width: 1100px;
-    height: 400px;
+    height: 200px;
     margin-right: 30px;
 }
+/* main last field */
+.newsletter{
+    width: 1320px;
+    height: 616px;
+    margin: auto;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    padding-bottom: 20px;
+}
+.do{
+    position: relative;
+    text-align: center;
+    padding: 70px;
+}
+#mail{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.subscribe{
+    color: #070211;
+    text-align: center; 
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding: 90px;
+}
+.write{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; 
+}
+.bttn{
+    text-align: center;
+}
+.null-box{
+    border-radius: 50px;
+    background: #FFF;
+    border: none;
+    width: 650px;
+    height: 27.5px;
+    /* padding: 10px; */
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500px;
+}
+.click{
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 200px;
+    height: 30px;
+    /* padding: 10px; */
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 500px;
+    text-transform: capitalize;
+    border: none;
+}
+.press{
+    display: flex;
+    margin-left: 800px;
+    margin-bottom: 700px;
+    margin-top: -30px;
+}
+
+/* footer work */
