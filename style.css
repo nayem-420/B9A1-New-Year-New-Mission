@@ -123,6 +123,15 @@ div.join-now-section{
     text-align: center;
     padding: 40px 60px;
 }
+.e{
+    color: #F00;
+}
+.f{
+    color: #F00;
+}
+.g{
+    color: #F00;
+}
 .join{
     display: inline-flex;
     padding: 16px 32px;
@@ -139,4 +148,69 @@ div.join-now-section{
     font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
+}
+/* making 3rd style */
+.container{
+    width: 1210px;
+    height: 200px;
+    display: flex;
+    margin: auto;
+}
+.heading-container{
+    margin-right: 120px;
+}
+.heading-container>.title{
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 200;
+}
+.bold{
+    color: #070211;
+    text-align: left;
+    font-family: Merriweather;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.blog{
+    width: 300px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 20px; 
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 10px solid #F00;
+    margin-right: 110px;
+}
+.pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    padding: 25px;
+}
+.year-name{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.description{
+    width: 180px;
+    height: 80px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 11px;
+    font-weight: 200;
+    line-height: 13px;
+}
+.happy-img{
+    width: 50px;
+    height: 50px;
 }
