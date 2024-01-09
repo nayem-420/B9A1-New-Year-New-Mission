@@ -386,7 +386,7 @@ div.join-now-section{
     border-radius: 0px 50px 50px 0px;
     background: #F00;
     width: 200px;
-    height: 30px;
+    height: 29.5px;
     /* padding: 10px; */
     color: #FFF;
     text-align: center;
@@ -404,3 +404,42 @@ div.join-now-section{
 }
 
 /* footer work */
+.last-work{
+    display: flex;
+    background: #070211;
+    width: 1600px;
+    height: 609px;
+    padding: 170px;
+}
+.option1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-right: 40px;
+}
+.address{
+    margin-bottom: 490px;
+}
+.option2{
+    margin-top: 210px;
+}
+hr{
+    background: rgba(255, 255, 255, 0.15);
+    width: 400px;
+    height: 1px;
+    border: none;
+}
+.option3{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    margin-left: 160px;
+}
+.unsubscribe{
+    margin-top: 415px;
+    text-align: right;
+}
